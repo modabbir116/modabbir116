@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Modabbir Hossen</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 
+<img alt="coding img"  width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modabbir116&label=Profile%20views&color=0e75b6&style=flat" alt="modabbir116" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modabbir116" alt="modabbir116" /></a> </p>
