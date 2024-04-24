@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Modabbir Hossen</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 
-[[<img alt="coding img"  width="350" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw17Sc4Qr3x5pBK90Q0rGl5U&ust=1714022903633000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjh7YKP2oUDFQAAAAAdAAAAABAE)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0hkwEEeWZGs7lNNuSzhICQ&ust=1714023106020000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJj7_OSP2oUDFQAAAAAdAAAAABAJ)
+<img alt="coding img" margin="0 auto"  width="550" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modabbir116&label=Profile%20views&color=0e75b6&style=flat" alt="modabbir116" /> </p>
 
