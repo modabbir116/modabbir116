@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Modabbir Hossen</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 <div align="center">
-  <img alt="coding img" margin="0 auto"  width="550" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+  <img alt="coding img" margin="0 auto"  style="box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;" width="550" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 </div>
 
 
