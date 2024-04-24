@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modabbir116" alt="modabbir116" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **MERN Stack Development**
 
 - 🌱 I’m currently learning **MERN Stack.📗**
 
