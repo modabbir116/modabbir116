@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Modabbir Hossen</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
-
-<img alt="coding img" margin="0 auto"  width="550" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<div align="center">
+  <img alt="coding img" margin="0 auto"  width="550" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modabbir116&label=Profile%20views&color=0e75b6&style=flat" alt="modabbir116" /> </p>
 
